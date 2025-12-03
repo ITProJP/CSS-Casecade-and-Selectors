@@ -1,0 +1,29 @@
+#outer-box {
+  background-color: black;
+}
+
+.box {
+  background-color: red;
+  padding: 50px;
+}
+
+.inner-box {
+  background-color: blue;
+}
+
+p {
+  color: black;
+  margin: 10;
+  padding: 40;
+  <div class="box inner-box">
+	<p>black text>
+}
+
+h1,
+h2 {
+	color: blueviolet;
+}
+
+.black-text {
+  color: black;
+}
